@@ -28,8 +28,8 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 I'm a **Java Backend Developer & Android Developer** with experience in cross-platform application development.
-- 🔭 Currently working on projects involving **Java Backend & Android Development**.
+- 👨‍💻 I'm a **Java Backend Developer** passionate about coding applications.
+- 🔭 Currently focusing on projects using **Java Spring Boot** to develop backend systems.
 - 🎯 Goal: To become a **Full Stack Developer** with deep knowledge in both mobile and web.
 - 💡 Always looking for open source collaboration opportunities.
 ---
