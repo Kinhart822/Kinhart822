@@ -76,7 +76,7 @@
 
 <p align="center">
   <a href="mailto:huongpham71@gmail.com">
-    <img src="https://img.shields.io/badge/Email-huongpham71@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-anhphamhoang04llp@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.facebook.com/hoanghoang.pham.7311">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook">
