@@ -28,10 +28,11 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 I'm a **Java Backend Developer** passionate about coding applications.
-- 🔭 Currently focusing on projects using **Java Spring Boot** to develop backend systems.
-- 🎯 Goal: To become a **Full Stack Developer** with deep knowledge in both mobile and web.
+- 👨‍💻 I’m a Backend Developer (Java & NestJS) with a strong passion for building scalable and maintainable applications.
+- 🔭 Currently working on backend systems using Java Spring Boot and NestJS, focusing on clean architecture and performance.
+- 🎯 Career goal: become a Full-Stack Developer with solid expertise in website development.
 - 💡 Always looking for open source collaboration opportunities.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -70,19 +71,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kinhart822&show_icons=true&theme=github_dark" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kinhart822&theme=github-dark&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinhart822&layout=compact&theme=github_dark" height="140" alt="Top Languages" />
-</p>
 
 ---
 
