@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://github.com/Kinhart822.png" width="150" height="150" style="border-radius:50%; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
-  <h1>Hi 👋, I'm Kinhart822</h1>
-  <p align="center">
-    <strong>Backend Developer (Java & NestJS)</strong>
-  </p>
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=2E99FF&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Kinhart822;Backend+Developer+(Java+%26+NestJS)" alt="Typing SVG" />
+  </a>
 
   <p align="center">
     <a href="https://github.com/Kinhart822">
@@ -15,23 +15,33 @@
   </p>
 </div>
 
----
-
 ## 🚀 About Me
 
-I am a graduate in Information Technology from the **University of Science and Technology of Hanoi (USTH)**, with a strong passion for backend development.
+I am a graduate in Information Technology from the **University of Science and Technology of Hanoi (USTH)**, with a strong passion for backend development and system architecture.
 
-Currently, I am working as a **Backend Developer Intern at SotaTek Vietnam**. I have experience in **Java Spring Boot** and **NestJS**, focusing on building scalable, maintainable, and high-performance backend systems using clean architecture.
 
-I always welcome collaborations, suggestions, and contributions to my projects!
+I am always open to collaborations, discussions on new technologies, or contributing to impactful open-source projects!
+
+---
+
+## 💼 Experience
+
+- **Backend Developer Intern** @ **SotaTek Vietnam** (03/11/2025 - 03/04/2026)
+  - Designed and updated database schemas for admin functionalities, transactions, withdrawals, and system settings.
+  - Implemented user and admin management features (block/unblock/delete, account history).
+  - Developed an approval request flow for editing sensitive data.
+  - Managed transactions, withdrawals, and system settings (view/edit/delete).
+  - Set up authentication with MetaMask and role-based authorization using **NestJS**, **PostgreSQL**, and **Redis**.
+- **Java Backend Developer Intern** @ **BZCOM** (06/2025 - 09/2025)
+  - Developed core system settings for dashboard customization (favourite sites, layout, themes, analytics) using **Java Spring Boot**.
 
 ---
 
 ## 🛠️ My Tech Stack
 
-### 🖥️ Backend & Core
+### 🖥️ Core
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,nestjs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,nestjs,react&theme=dark)](https://skillicons.dev)
 
 ### 💾 Databases & Infrastructure
 
@@ -46,9 +56,9 @@ I always welcome collaborations, suggestions, and contributions to my projects!
 ## 📊 Performance Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kinhart822&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Kinhart822&show_icons=true&theme=tokyonight&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinhart822&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kinhart822&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kinhart822&theme=tokyonight" alt="GitHub Streak" />
 </div>
